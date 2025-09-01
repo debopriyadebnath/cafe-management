@@ -9,12 +9,12 @@ menu = {
     'tea':40,
     'juice':65,
     'water':20,
-    'soda':75,
+    'soda':45,
     
 }
 print("Welcome to Sunshine Cafe!")
 print("Here is our menu:")
-print("pizza: Rs50 \n pasta: Rs60\n burger:Rs45\n salad:Rs70\n soup:Rs30\n dessert:Rs55\n coffee:Rs80\n tea:Rs40\n juice:Rs65\n water:Rs20\n soda:Rs75")
+print("pizza: Rs50 \n pasta: Rs60\n burger:Rs45\n salad:Rs70\n soup:Rs30\n dessert:Rs55\n coffee:Rs80\n tea:Rs40\n juice:Rs65\n water:Rs20\n soda:Rs45")
 
 order_total=0
 
